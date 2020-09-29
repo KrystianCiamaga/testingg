@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d249c0fb-8743-4261-9bb7-347ee780ef2e" name="Default Changelist" comment="" />
+    <list default="true" id="a0900cc9-e0b7-416c-9ba1-9f3900116c06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newFile" beforeDir="false" afterPath="$PROJECT_DIR$/newFile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,55 +13,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$/.idea" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1iB4dNM8HuVErEWnBRBUNKT7e0d" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="d249c0fb-8743-4261-9bb7-347ee780ef2e" name="Default Changelist" comment="" />
-      <created>1601367737991</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1601367737991</updated>
-      <workItem from="1601367742428" duration="253000" />
-    </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="533" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601367904795">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="533" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.900@0.0.1600.900" timestamp="1601367904795" />
-    <state x="492" y="309" key="FileDocumentManager.FileCacheConflict" timestamp="1601368066201">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="492" y="309" key="FileDocumentManager.FileCacheConflict/0.0.1600.900@0.0.1600.900" timestamp="1601368066201" />
   </component>
 </project>
